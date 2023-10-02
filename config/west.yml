@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: TRDotExe
-      url-base: https://github.com/TRDotExe
+    - name: AakashDabas
+      url-base: https://github.com/AakashDabas
   projects:
     - name: zmk
-      remote: TRDotExe
+      remote: AakashDabas
       revision: main
       import: app/west.yml
   self:
